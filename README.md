@@ -295,6 +295,11 @@ Total host RAM: 32GB
 - [`penetration-testing-writeups`](https://github.com/RelentIQ/penetration-testing-writeups) — Documented attack methodologies with OWASP/CWE mapping and remediation guidance
 - [`security-automation-scripts`](https://github.com/RelentIQ/security-automation-scripts) — Recon, analysis, and automation tools
 
+## Writeups
+
+- [Purple Team: AD Enumeration & Attack Detection](writeups/purple-team-ad-enumeration.md) - Full attack chain from recon to Domain Admin with SIEM detection analysis (2,630+ events)
+
+
 ## Author
 
 **Nikolay** — Aspiring Cybersecurity Professional
